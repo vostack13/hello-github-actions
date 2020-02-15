@@ -1,3 +1,3 @@
-#! / bin / sh -l
+#!/bin/sh -l
 
-sh -c " echo Hello world, меня зовут $ MY_NAME "
+sh -c "echo Hello world my name is $MY_NAME"
